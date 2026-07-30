@@ -1,0 +1,26 @@
+Q1. What do you know about functions ?
+Q2. What is Layout ?
+Q3. What do you know about flex layout ?
+Q4. What is the need of grid layout ?
+Q5. What is the use of Github ?
+
+Ans1. Functions is a block of code. which we can used it many times. As per requirement.
+      we can used the code by calling it. it increases readability and useability of the code .
+
+Ans2. Layout means defining the dimensions of a webpage . where we have placed 
+      the different boxes.
+
+Ans3. flex layout is a one-dimensional layout model that helps developers create flexible and responsive web page       layouts. It arranges elements either horizontally (row) or vertically (column) and provides easy control over alignment, spacing, ordering, and sizing of items inside a container.
+
+Ans4. Grid Layout is a two-dimensional layout system used to arrange elements in rows and columns. It makes it easier to create complex and responsive web page layouts compared to older methods like floats or even Flexbox.
+
+
+Ans5. GitHub is a web-based platform that uses Git for version control, allowing developers to host code repositories, track changes, collaborate with others, and manage software projects.
+
+Benefits:
+Stores code online securely.
+Tracks changes in code using Git.
+Enables collaboration among multiple developers.
+Supports open-source projects where anyone can contribute.
+Automates workflows using GitHub Actions.
+Hosts websites using GitHub Pages.
