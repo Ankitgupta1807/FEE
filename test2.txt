@@ -1,0 +1,13 @@
+1. What is API?
+ANS. An API stands for Application Programming Interface. It is a mechanism that allows two different software applications to communicate and exchange information with each other.
+
+In simple words, an API acts as a bridge between two applications.
+For Example :
+If we want to Show the data of the weather . and status regarding these things simply we get the data the from the weather site . we generate a API key to get the data.
+A payment application uses a payment gateway API to process transactions.
+A college website uses an API to retrieve student information from a database.
+
+2. What is React Hooks.
+ANS. React Hooks are special JavaScript functions that allow functional components to use React features such as state, lifecycle management, context, references and performance optimization.
+
+Before Hooks, developers often used class components to manage state and lifecycle methods. Hooks made these features available in functional components.
